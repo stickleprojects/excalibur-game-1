@@ -1,0 +1,23 @@
+{
+  "name": "game1",
+  "version": "1.0.0",
+  "description": "sample excalibur game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stickleprojects/excalibur-game-1"
+  },
+  "keywords": [
+    "excalibur",
+    "2d"
+  ],
+  "author": "kieron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stickleprojects/excalibur-game-1/issues"
+  },
+  "homepage": "https://github.com/stickleprojects/excalibur-game-1#readme"
+}
